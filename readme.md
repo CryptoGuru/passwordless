@@ -18,7 +18,7 @@ if someone has access to your emails, they cannot use the link in your email to 
 
 I hope it will be of use to others but it might break things. Please use it with caution and at your own risk. 
 
-If you find bugs please get in touch with me or better yet help fix it on [GitHub](https://github.com/easysecured/passwordless/ "Device based authentication on GitHub").
+If you find bugs please get in touch with me or better yet help fix it on [GitHub](https://github.com/CryptoGuru/passwordless/ "Device based authentication on GitHub").
 
 = Login process =
 Passwordless allows your site's users to log in using only their email addresses. 
